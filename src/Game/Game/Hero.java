@@ -9,7 +9,6 @@ abstract class Hero {
     protected int damage;
     protected boolean alive;
 
-
     public Hero() {
         this.name =this.giveName();
         this.alive=true;

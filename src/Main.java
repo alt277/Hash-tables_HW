@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-//1
+//6
  //       ChainingHashMap<Integer ,String> map = new ChainingHashMap<>();
 //        map.put(1,"one");
 //        map.put(2,"two");

@@ -2,13 +2,9 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-      //123 +123+123  =1=2=3=4=5
-      //20
-      //21
-      //23
-//      30
-//      31
-//      32
+//40
+//      41
+//      42
  //       ChainingHashMap<Integer ,String> map = new ChainingHashMap<>();
 //        map.put(1,"one");
 //        map.put(2,"two");

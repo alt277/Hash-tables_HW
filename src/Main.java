@@ -5,6 +5,7 @@ public class Main {
       //123 +123+123  =1=2=3=4=5
       //20
       //21
+      //23
  //       ChainingHashMap<Integer ,String> map = new ChainingHashMap<>();
 //        map.put(1,"one");
 //        map.put(2,"two");
